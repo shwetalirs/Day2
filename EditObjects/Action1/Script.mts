@@ -1,4 +1,4 @@
-﻿'Record and play for 4 objects added 
+﻿'Record and play for 4 objects added to cart
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("TabletsCategory").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("TabletsCategory")_;_script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("HP ElitePad 1000 G2 Tablet").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("HP ElitePad 1000 G2 Tablet")_;_script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement")_;_script infofile_;_ZIP::ssf3.xml_;_
